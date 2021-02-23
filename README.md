@@ -1,4 +1,4 @@
-# angular-fitness-tracker-clean
+# Fitness tracker
 
 A small application to keep track your fitness activity. 🏋️‍♂️
 
